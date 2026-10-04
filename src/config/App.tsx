@@ -158,7 +158,7 @@ export default function App({
     };
   }, [section]);
 
-  const SECRET_CODE = "1907";
+  const SECRET_CODE = "0719";
 
   const goTo = (next: Section) => {
     setSection(next);
