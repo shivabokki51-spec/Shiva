@@ -483,7 +483,7 @@ const currentPhoto =
                   duration: 0.8,
                 }}
               >
-                MADE ESPECIALLY FOR {birthdayConfig.name}
+                MADE ESPECIALLY FOR Akshitha
                 <span>♥</span>
               </motion.div>
             </div>
